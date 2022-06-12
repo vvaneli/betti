@@ -1,5 +1,8 @@
 # Betti - Safe Betting Bot
 
+Chatbot demonstrating new onboarding procedure, and a trigger of someone near their limit can be found at:
+[Betti Chat Bot](https://vvaneli.github.io/betti/assets/bot.html)
+
 ## Problem Statement
 
 The Diagnostic & Statistical Manual of Mental disorders included gambling disorder as a diagnosable disorder. (https://psychiatry.org/psychiatrists/practice/dsm)  
@@ -23,6 +26,3 @@ Such a program would be delivered using an automated bot programmed to learn a g
 
 Processed pseudonymously, the data collected could be used to develop further metrics and indicators for at-risks users to refine Betti over time. Launching from sports betting addiction as a starting point, we can use what we learn to develop Betti to provide cognitive based therapy for addicts in the rest of the gambling market. 
 
-
-Chatbot demonstrating new sign-up procedure, and a trigger of someone near their limit can be found at:
-[Betti Chat Bot](https://vvaneli.github.io/betti/assets/bot.html)
