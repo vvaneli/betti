@@ -1,6 +1,6 @@
 # Betti - Safe Betting Bot
 
-<img width="92" alt="Screenshot 2022-06-12 at 11 19 39" src="https://user-images.githubusercontent.com/16685932/173228728-462530ff-0627-4013-ac07-412e7e0ede4f.png">[Betti Chat Bot](https://vvaneli.github.io/betti/assets/bot.html)
+<img width="73" alt="Screenshot 2022-06-12 at 11 22 39" src="https://user-images.githubusercontent.com/16685932/173228792-b7b91d9d-136b-4a59-961d-89cf23de51e0.png">[Betti](https://vvaneli.github.io/betti/assets/bot.html)
 
 Chatbot demonstrating new onboarding procedure, and a trigger of someone near their limit.
 
