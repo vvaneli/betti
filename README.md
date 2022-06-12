@@ -1,7 +1,8 @@
 # Betti - Safe Betting Bot
 
-Chatbot demonstrating new onboarding procedure, and a trigger of someone near their limit can be found at:
-[Betti Chat Bot](https://vvaneli.github.io/betti/assets/bot.html)
+<img width="92" alt="Screenshot 2022-06-12 at 11 19 39" src="https://user-images.githubusercontent.com/16685932/173228728-462530ff-0627-4013-ac07-412e7e0ede4f.png">[Betti Chat Bot](https://vvaneli.github.io/betti/assets/bot.html)
+
+Chatbot demonstrating new onboarding procedure, and a trigger of someone near their limit.
 
 ## Problem Statement
 
