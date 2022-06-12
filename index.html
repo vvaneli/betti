@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+    <head>
+        <meta name="robots" content="none, noindex, nofollow, noarchive, nosnippet, noimageindex">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width-device-width, initial-scale=1">
+        <title>Betti demo</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet"> 
+        <style>
+            body {
+                font-family: 'Fredoka One', cursive;
+                font-size: 0.9em;
+                padding: 0;
+                margin: 0;
+                background-color: #B3B7C4;
+                height: 100vh;
+              }
+            iframe {
+                border: 0;
+                width: 500px;
+                max-width: 500px;
+                height: calc(100vh + 58px);
+                display:block;
+                position: absolute;
+                top: calc(50% - 30px);
+                left: 50%;
+                margin-right: -50%;
+                transform: translate(-50%, -50%);
+            }
+            a {
+              text-decoration: none;
+            }
+            .logo {
+              width: 100px;
+              height: 60px;
+              padding: 10px;
+            }
+            .tooltip {
+              position: relative;
+              display: inline-block;
+            }
+          .tooltip .tooltiptext {
+              visibility: hidden;
+              width: 7em;
+              background-color: #555555;
+              color: #fff;
+              text-align: center;
+              border-radius: 6px;
+              padding: 5px 0;
+              position: absolute;
+              z-index: 1;
+              top: 20px;
+              left: 70px;
+            }
+          .tooltip .tooltiptext::after {
+              content: "";
+              position: absolute;
+              top: 50%;
+              right: 100%;
+              margin-top: -5px;
+              border-width: 5px;
+              border-style: solid;
+              border-color: transparent #555555 transparent transparent;
+            }
+          .tooltip:hover .tooltiptext {
+              visibility: visible;
+            }
+            @media screen and (max-width: 620px) {
+                .logo {
+                    display: none;
+                }
+            @media screen and (max-width: 500px) {
+                iframe {
+                    width: 100vw;
+                }
+            }
+        </style>
+    </head>
+<body>
+  <div class="tooltip">
+     <a href="#" target="_blank">
+      <img class="logo" src="assets/Logo.png" alt="logo">
+      <span class="tooltiptext"></span>
+     </a>
+   </div>
+   <iframe src="assets/bot.html" title="Chat window"></iframe>
+</body>
+</html>
