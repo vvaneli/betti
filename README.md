@@ -17,6 +17,8 @@ They do so by using a set of safer gambling tools such as *self-exclusion, play 
 
 ## Proposed Solution
 
+![Capture](https://user-images.githubusercontent.com/16685932/173230662-cfe1a655-e93c-43bc-9c68-78ff490c1687.JPG)
+
 Before the internet, self-help programs were distributed as books, audio, and video series. All these can be easily adapted for websites and enhanced with media, user interactions, and quizzes. Using existing triggers, we propose integrating a therapeutic intervention program such as Cognitive Behavioral Therapy (CBT) to identify negative thoughts and feelings and help users to challenge these and work through exercises to explore them further.
 
 CBT (Cognitive Behavioural Therapy) is a talking therapy that has proven to aid people suffering from several mental and physical health disorders such as addiction. It works by identifying triggers and coming up with feasible coping strategies; for example, if someone tends to gamble whilst working from home, they might ask to come into the office knowing that they would be less prone to gamble in front of colleagues. This is an external trigger, however there are also internal triggers based on emotions. Since OpenBet works through online platforms, instead of asking a client what is triggering them, we can collect that data ourselves whenever they open the app or make a bet. Externally, this can be done by tracking the location and time, and slowly building up a picture of the client’s habits; internally, we can ask the client how they are feeling. This will result in more accurate coping mechanisms when the time comes for them to receive help.
